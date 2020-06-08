@@ -5,7 +5,7 @@ from OpenGL.GLUT import *
 def drawFunc():
     glClear(GL_COLOR_BUFFER_BIT)
     #glRotatef(1, 0, 1, 0)
-    # glutWireTeapot(0.5)
+    glutWireTeapot(0.5)
     # glutWireCube(1)
     # glutWireOctahedron()
     # glutWireSierpinskiSponge(0.1)
